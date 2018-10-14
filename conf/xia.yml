@@ -1,0 +1,8 @@
+template: wrerrewt
+
+defaultName: werw
+
+swagger:
+  resourcePackage: resource
+  schemes:
+    - http
